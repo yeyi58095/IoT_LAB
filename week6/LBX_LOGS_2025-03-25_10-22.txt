@@ -1,0 +1,1096 @@
+Tue Mar 25 10:11:49 GMT+08:00 2025: LightBlue® app launched
+
+Tue Mar 25 10:11:49 GMT+08:00 2025: App foregrounded
+
+Tue Mar 25 10:12:03 GMT+08:00 2025: Connecting to D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:12:04 GMT+08:00 2025: onConnectionStateChange: status 62 encountered for D1:CA:67:E4:3F:A2!
+
+Tue Mar 25 10:12:04 GMT+08:00 2025: Disconnecting from D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:12:04 GMT+08:00 2025: Disconnected from D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:12:08 GMT+08:00 2025: Connecting to D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:12:08 GMT+08:00 2025: Connected to D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:12:08 GMT+08:00 2025: Discovering services for D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:12:09 GMT+08:00 2025: Discovered 4 services for D1:CA:67:E4:3F:A2.
+
+Tue Mar 25 10:12:09 GMT+08:00 2025: 
+                Service 00001800-0000-1000-8000-00805f9b34fb
+                Characteristics: 
+                |--00002a00-0000-1000-8000-00805f9b34fb: Properties: Read, Write
+|--00002a01-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002a04-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002aa6-0000-1000-8000-00805f9b34fb: Properties: Read
+            
+
+Tue Mar 25 10:12:09 GMT+08:00 2025: 
+                Service 00001801-0000-1000-8000-00805f9b34fb
+                Characteristics: 
+                |--00002a05-0000-1000-8000-00805f9b34fb: Properties: Indicate
+|------00002902-0000-1000-8000-00805f9b34fb: <EMPTY>
+            
+
+Tue Mar 25 10:12:09 GMT+08:00 2025: 
+                Service 0000180a-0000-1000-8000-00805f9b34fb
+                Characteristics: 
+                |--00002a24-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002a25-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002a26-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002a28-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002a29-0000-1000-8000-00805f9b34fb: Properties: Read
+            
+
+Tue Mar 25 10:12:09 GMT+08:00 2025: 
+                Service 0000ff01-0000-1000-8000-00805f9b34fb
+                Characteristics: 
+                |--0000aa01-0000-1000-8000-00805f9b34fb: Properties: Read, Notify
+|------00002902-0000-1000-8000-00805f9b34fb: <EMPTY>
+            
+
+Tue Mar 25 10:12:09 GMT+08:00 2025: Reading from characteristic 00002a00-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:12:09 GMT+08:00 2025: Read characteristic 00002a00-0000-1000-8000-00805f9b34fb | value: 54 72 69 42 4C 45 5F 31
+
+Tue Mar 25 10:12:09 GMT+08:00 2025: Reading from characteristic 00002a24-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:12:09 GMT+08:00 2025: Read characteristic 00002a24-0000-1000-8000-00805f9b34fb | value: 54 72 69 41 6E 73 77 65 72
+
+Tue Mar 25 10:12:09 GMT+08:00 2025: Reading from characteristic 00002a26-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:12:09 GMT+08:00 2025: Read characteristic 00002a26-0000-1000-8000-00805f9b34fb | value: 73 31 34 30 20 36 2E 31 2E 31
+
+Tue Mar 25 10:12:09 GMT+08:00 2025: Reading from characteristic 00002a28-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:12:09 GMT+08:00 2025: Read characteristic 00002a28-0000-1000-8000-00805f9b34fb | value: 30 2E 33 2E 31 31
+
+Tue Mar 25 10:12:09 GMT+08:00 2025: Reading from characteristic 00002a29-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:12:09 GMT+08:00 2025: Read characteristic 00002a29-0000-1000-8000-00805f9b34fb | value: 59 75 74 65 63 68 2C 20 54 61 69 77 61 6E
+
+Tue Mar 25 10:13:16 GMT+08:00 2025: Disconnecting from D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:13:16 GMT+08:00 2025: Disconnected from D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:13:23 GMT+08:00 2025: Connecting to D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:13:23 GMT+08:00 2025: Connected to D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:13:23 GMT+08:00 2025: Discovering services for D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:13:24 GMT+08:00 2025: Discovered 4 services for D1:CA:67:E4:3F:A2.
+
+Tue Mar 25 10:13:24 GMT+08:00 2025: 
+                Service 00001800-0000-1000-8000-00805f9b34fb
+                Characteristics: 
+                |--00002a00-0000-1000-8000-00805f9b34fb: Properties: Read, Write
+|--00002a01-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002a04-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002aa6-0000-1000-8000-00805f9b34fb: Properties: Read
+            
+
+Tue Mar 25 10:13:24 GMT+08:00 2025: 
+                Service 00001801-0000-1000-8000-00805f9b34fb
+                Characteristics: 
+                |--00002a05-0000-1000-8000-00805f9b34fb: Properties: Indicate
+|------00002902-0000-1000-8000-00805f9b34fb: <EMPTY>
+            
+
+Tue Mar 25 10:13:24 GMT+08:00 2025: 
+                Service 0000180a-0000-1000-8000-00805f9b34fb
+                Characteristics: 
+                |--00002a24-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002a25-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002a26-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002a28-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002a29-0000-1000-8000-00805f9b34fb: Properties: Read
+            
+
+Tue Mar 25 10:13:24 GMT+08:00 2025: 
+                Service 0000ff01-0000-1000-8000-00805f9b34fb
+                Characteristics: 
+                |--0000aa01-0000-1000-8000-00805f9b34fb: Properties: Read, Notify
+|------00002902-0000-1000-8000-00805f9b34fb: <EMPTY>
+            
+
+Tue Mar 25 10:13:24 GMT+08:00 2025: Reading from characteristic 00002a00-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:13:24 GMT+08:00 2025: Read characteristic 00002a00-0000-1000-8000-00805f9b34fb | value: 54 72 69 42 4C 45 5F 31
+
+Tue Mar 25 10:13:24 GMT+08:00 2025: Reading from characteristic 00002a24-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:13:24 GMT+08:00 2025: Read characteristic 00002a24-0000-1000-8000-00805f9b34fb | value: 54 72 69 41 6E 73 77 65 72
+
+Tue Mar 25 10:13:24 GMT+08:00 2025: Reading from characteristic 00002a26-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:13:24 GMT+08:00 2025: Read characteristic 00002a26-0000-1000-8000-00805f9b34fb | value: 73 31 34 30 20 36 2E 31 2E 31
+
+Tue Mar 25 10:13:24 GMT+08:00 2025: Reading from characteristic 00002a28-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:13:24 GMT+08:00 2025: Read characteristic 00002a28-0000-1000-8000-00805f9b34fb | value: 30 2E 33 2E 31 31
+
+Tue Mar 25 10:13:24 GMT+08:00 2025: Reading from characteristic 00002a29-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:13:24 GMT+08:00 2025: Read characteristic 00002a29-0000-1000-8000-00805f9b34fb | value: 59 75 74 65 63 68 2C 20 54 61 69 77 61 6E
+
+Tue Mar 25 10:13:31 GMT+08:00 2025: Enabling notifications/indications on 00002a05-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:13:31 GMT+08:00 2025: Notifications or indications ENABLED on 00002a05-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:13:31 GMT+08:00 2025: Wrote to descriptor 00002902-0000-1000-8000-00805f9b34fb | operation type: EnableNotifications(device=y4.f@3425f7, characteristicUuid=00002a05-0000-1000-8000-00805f9b34fb, serviceUuid=00001801-0000-1000-8000-00805f9b34fb)
+
+Tue Mar 25 10:13:43 GMT+08:00 2025: Disabling notifications/indications on 00002a05-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:13:43 GMT+08:00 2025: Notifications or indications DISABLED on 00002a05-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:13:43 GMT+08:00 2025: Wrote to descriptor 00002902-0000-1000-8000-00805f9b34fb | operation type: DisableNotifications(device=y4.f@3425f7, characteristicUuid=00002a05-0000-1000-8000-00805f9b34fb, serviceUuid=00001801-0000-1000-8000-00805f9b34fb)
+
+Tue Mar 25 10:13:44 GMT+08:00 2025: Enabling notifications/indications on 00002a05-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:13:44 GMT+08:00 2025: Notifications or indications ENABLED on 00002a05-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:13:44 GMT+08:00 2025: Wrote to descriptor 00002902-0000-1000-8000-00805f9b34fb | operation type: EnableNotifications(device=y4.f@3425f7, characteristicUuid=00002a05-0000-1000-8000-00805f9b34fb, serviceUuid=00001801-0000-1000-8000-00805f9b34fb)
+
+Tue Mar 25 10:14:03 GMT+08:00 2025: Disabling notifications/indications on 00002a05-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:14:03 GMT+08:00 2025: Notifications or indications DISABLED on 00002a05-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:14:03 GMT+08:00 2025: Wrote to descriptor 00002902-0000-1000-8000-00805f9b34fb | operation type: DisableNotifications(device=y4.f@3425f7, characteristicUuid=00002a05-0000-1000-8000-00805f9b34fb, serviceUuid=00001801-0000-1000-8000-00805f9b34fb)
+
+Tue Mar 25 10:14:04 GMT+08:00 2025: Enabling notifications/indications on 00002a05-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:14:04 GMT+08:00 2025: Notifications or indications ENABLED on 00002a05-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:14:04 GMT+08:00 2025: Wrote to descriptor 00002902-0000-1000-8000-00805f9b34fb | operation type: EnableNotifications(device=y4.f@3425f7, characteristicUuid=00002a05-0000-1000-8000-00805f9b34fb, serviceUuid=00001801-0000-1000-8000-00805f9b34fb)
+
+Tue Mar 25 10:17:11 GMT+08:00 2025: Disconnecting from D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:17:11 GMT+08:00 2025: Disconnected from D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:17:21 GMT+08:00 2025: Connecting to D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:17:21 GMT+08:00 2025: Connected to D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:17:21 GMT+08:00 2025: Discovering services for D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:17:22 GMT+08:00 2025: Discovered 4 services for D1:CA:67:E4:3F:A2.
+
+Tue Mar 25 10:17:22 GMT+08:00 2025: 
+                Service 00001800-0000-1000-8000-00805f9b34fb
+                Characteristics: 
+                |--00002a00-0000-1000-8000-00805f9b34fb: Properties: Read, Write
+|--00002a01-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002a04-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002aa6-0000-1000-8000-00805f9b34fb: Properties: Read
+            
+
+Tue Mar 25 10:17:22 GMT+08:00 2025: 
+                Service 00001801-0000-1000-8000-00805f9b34fb
+                Characteristics: 
+                |--00002a05-0000-1000-8000-00805f9b34fb: Properties: Indicate
+|------00002902-0000-1000-8000-00805f9b34fb: <EMPTY>
+            
+
+Tue Mar 25 10:17:22 GMT+08:00 2025: 
+                Service 0000180a-0000-1000-8000-00805f9b34fb
+                Characteristics: 
+                |--00002a24-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002a25-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002a26-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002a28-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002a29-0000-1000-8000-00805f9b34fb: Properties: Read
+            
+
+Tue Mar 25 10:17:22 GMT+08:00 2025: 
+                Service 0000ff01-0000-1000-8000-00805f9b34fb
+                Characteristics: 
+                |--0000aa01-0000-1000-8000-00805f9b34fb: Properties: Read, Notify
+|------00002902-0000-1000-8000-00805f9b34fb: <EMPTY>
+            
+
+Tue Mar 25 10:17:22 GMT+08:00 2025: Reading from characteristic 00002a00-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:17:22 GMT+08:00 2025: Read characteristic 00002a00-0000-1000-8000-00805f9b34fb | value: 54 72 69 42 4C 45 5F 31
+
+Tue Mar 25 10:17:22 GMT+08:00 2025: Reading from characteristic 00002a24-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:17:22 GMT+08:00 2025: Read characteristic 00002a24-0000-1000-8000-00805f9b34fb | value: 54 72 69 41 6E 73 77 65 72
+
+Tue Mar 25 10:17:22 GMT+08:00 2025: Reading from characteristic 00002a26-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:17:22 GMT+08:00 2025: Read characteristic 00002a26-0000-1000-8000-00805f9b34fb | value: 73 31 34 30 20 36 2E 31 2E 31
+
+Tue Mar 25 10:17:22 GMT+08:00 2025: Reading from characteristic 00002a28-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:17:22 GMT+08:00 2025: Read characteristic 00002a28-0000-1000-8000-00805f9b34fb | value: 30 2E 33 2E 31 31
+
+Tue Mar 25 10:17:22 GMT+08:00 2025: Reading from characteristic 00002a29-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:17:22 GMT+08:00 2025: Read characteristic 00002a29-0000-1000-8000-00805f9b34fb | value: 59 75 74 65 63 68 2C 20 54 61 69 77 61 6E
+
+Tue Mar 25 10:17:34 GMT+08:00 2025: Enabling notifications/indications on 00002a05-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:17:34 GMT+08:00 2025: Notifications or indications ENABLED on 00002a05-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:17:34 GMT+08:00 2025: Wrote to descriptor 00002902-0000-1000-8000-00805f9b34fb | operation type: EnableNotifications(device=y4.f@3425f7, characteristicUuid=00002a05-0000-1000-8000-00805f9b34fb, serviceUuid=00001801-0000-1000-8000-00805f9b34fb)
+
+Tue Mar 25 10:17:36 GMT+08:00 2025: Disabling notifications/indications on 00002a05-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:17:36 GMT+08:00 2025: Notifications or indications DISABLED on 00002a05-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:17:36 GMT+08:00 2025: Wrote to descriptor 00002902-0000-1000-8000-00805f9b34fb | operation type: DisableNotifications(device=y4.f@3425f7, characteristicUuid=00002a05-0000-1000-8000-00805f9b34fb, serviceUuid=00001801-0000-1000-8000-00805f9b34fb)
+
+Tue Mar 25 10:17:44 GMT+08:00 2025: Disconnecting from D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:17:44 GMT+08:00 2025: Disconnected from D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:19:16 GMT+08:00 2025: Connecting to D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:19:16 GMT+08:00 2025: onConnectionStateChange: status 62 encountered for D1:CA:67:E4:3F:A2!
+
+Tue Mar 25 10:19:16 GMT+08:00 2025: Disconnecting from D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:19:16 GMT+08:00 2025: Disconnected from D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:19:19 GMT+08:00 2025: Connecting to D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:19:19 GMT+08:00 2025: onConnectionStateChange: status 62 encountered for D1:CA:67:E4:3F:A2!
+
+Tue Mar 25 10:19:19 GMT+08:00 2025: Disconnecting from D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:19:19 GMT+08:00 2025: Disconnected from D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:19:22 GMT+08:00 2025: Connecting to D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:19:22 GMT+08:00 2025: onConnectionStateChange: status 62 encountered for D1:CA:67:E4:3F:A2!
+
+Tue Mar 25 10:19:22 GMT+08:00 2025: Disconnecting from D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:19:22 GMT+08:00 2025: Disconnected from D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:19:27 GMT+08:00 2025: Connecting to D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:19:27 GMT+08:00 2025: Connected to D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:19:27 GMT+08:00 2025: Discovering services for D1:CA:67:E4:3F:A2 (TriBLE_1)
+
+Tue Mar 25 10:19:28 GMT+08:00 2025: Discovered 4 services for D1:CA:67:E4:3F:A2.
+
+Tue Mar 25 10:19:28 GMT+08:00 2025: 
+                Service 00001800-0000-1000-8000-00805f9b34fb
+                Characteristics: 
+                |--00002a00-0000-1000-8000-00805f9b34fb: Properties: Read, Write
+|--00002a01-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002a04-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002aa6-0000-1000-8000-00805f9b34fb: Properties: Read
+            
+
+Tue Mar 25 10:19:28 GMT+08:00 2025: 
+                Service 00001801-0000-1000-8000-00805f9b34fb
+                Characteristics: 
+                |--00002a05-0000-1000-8000-00805f9b34fb: Properties: Indicate
+|------00002902-0000-1000-8000-00805f9b34fb: <EMPTY>
+            
+
+Tue Mar 25 10:19:28 GMT+08:00 2025: 
+                Service 0000180a-0000-1000-8000-00805f9b34fb
+                Characteristics: 
+                |--00002a24-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002a25-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002a26-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002a28-0000-1000-8000-00805f9b34fb: Properties: Read
+|--00002a29-0000-1000-8000-00805f9b34fb: Properties: Read
+            
+
+Tue Mar 25 10:19:28 GMT+08:00 2025: 
+                Service 0000ff01-0000-1000-8000-00805f9b34fb
+                Characteristics: 
+                |--0000aa01-0000-1000-8000-00805f9b34fb: Properties: Read, Notify
+|------00002902-0000-1000-8000-00805f9b34fb: <EMPTY>
+            
+
+Tue Mar 25 10:19:28 GMT+08:00 2025: Reading from characteristic 00002a00-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:19:28 GMT+08:00 2025: Read characteristic 00002a00-0000-1000-8000-00805f9b34fb | value: 54 72 69 42 4C 45 5F 31
+
+Tue Mar 25 10:19:28 GMT+08:00 2025: Reading from characteristic 00002a24-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:19:28 GMT+08:00 2025: Read characteristic 00002a24-0000-1000-8000-00805f9b34fb | value: 54 72 69 41 6E 73 77 65 72
+
+Tue Mar 25 10:19:28 GMT+08:00 2025: Reading from characteristic 00002a26-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:19:28 GMT+08:00 2025: Read characteristic 00002a26-0000-1000-8000-00805f9b34fb | value: 73 31 34 30 20 36 2E 31 2E 31
+
+Tue Mar 25 10:19:28 GMT+08:00 2025: Reading from characteristic 00002a28-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:19:28 GMT+08:00 2025: Read characteristic 00002a28-0000-1000-8000-00805f9b34fb | value: 30 2E 33 2E 31 31
+
+Tue Mar 25 10:19:28 GMT+08:00 2025: Reading from characteristic 00002a29-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:19:28 GMT+08:00 2025: Read characteristic 00002a29-0000-1000-8000-00805f9b34fb | value: 59 75 74 65 63 68 2C 20 54 61 69 77 61 6E
+
+Tue Mar 25 10:19:48 GMT+08:00 2025: Reading from characteristic 00002a01-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:19:48 GMT+08:00 2025: Read characteristic 00002a01-0000-1000-8000-00805f9b34fb | value: 00 00
+
+Tue Mar 25 10:19:55 GMT+08:00 2025: Enabling notifications/indications on 00002a05-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:19:55 GMT+08:00 2025: Notifications or indications ENABLED on 00002a05-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:19:55 GMT+08:00 2025: Wrote to descriptor 00002902-0000-1000-8000-00805f9b34fb | operation type: EnableNotifications(device=y4.f@3425f7, characteristicUuid=00002a05-0000-1000-8000-00805f9b34fb, serviceUuid=00001801-0000-1000-8000-00805f9b34fb)
+
+Tue Mar 25 10:20:00 GMT+08:00 2025: Reading from characteristic 00002a00-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:20:00 GMT+08:00 2025: Read characteristic 00002a00-0000-1000-8000-00805f9b34fb | value: 54 72 69 42 4C 45 5F 31
+
+Tue Mar 25 10:20:02 GMT+08:00 2025: Reading from characteristic 00002a00-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:20:02 GMT+08:00 2025: Read characteristic 00002a00-0000-1000-8000-00805f9b34fb | value: 54 72 69 42 4C 45 5F 31
+
+Tue Mar 25 10:20:14 GMT+08:00 2025: Reading from characteristic 00002a04-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:20:15 GMT+08:00 2025: Read characteristic 00002a04-0000-1000-8000-00805f9b34fb | value: 06 00 0C 00 00 00 C8 00
+
+Tue Mar 25 10:20:16 GMT+08:00 2025: Reading from characteristic 00002a04-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:20:16 GMT+08:00 2025: Read characteristic 00002a04-0000-1000-8000-00805f9b34fb | value: 06 00 0C 00 00 00 C8 00
+
+Tue Mar 25 10:20:17 GMT+08:00 2025: Reading from characteristic 00002a04-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:20:17 GMT+08:00 2025: Read characteristic 00002a04-0000-1000-8000-00805f9b34fb | value: 06 00 0C 00 00 00 C8 00
+
+Tue Mar 25 10:20:38 GMT+08:00 2025: Reading from characteristic 0000aa01-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:20:38 GMT+08:00 2025: Read characteristic 0000aa01-0000-1000-8000-00805f9b34fb | value: 56 56 50 4C 4A 49 4A 4E 54 57 53 4E 4B 4A 4A 4D 53 57 55 4F
+
+Tue Mar 25 10:20:40 GMT+08:00 2025: Enabling notifications/indications on 0000aa01-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:20:40 GMT+08:00 2025: Notifications or indications ENABLED on 0000aa01-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:20:40 GMT+08:00 2025: Wrote to descriptor 00002902-0000-1000-8000-00805f9b34fb | operation type: EnableNotifications(device=y4.f@3425f7, characteristicUuid=0000aa01-0000-1000-8000-00805f9b34fb, serviceUuid=0000ff01-0000-1000-8000-00805f9b34fb)
+
+Tue Mar 25 10:20:40 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 53 57 55 4E 4C 4A 4A 4C 51 56 56 51 4D 4B 4B 4B 50 55 57 53
+
+Tue Mar 25 10:20:40 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4E 4B 4A 49 4D 53 56 54 4E 4A 49 49 4A 50 55 55 4F 4B 4A 49
+
+Tue Mar 25 10:20:40 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4E 54 56 52 4D 4A 49 4A 4C 52 56 54 4F 4B 49 49 4B 51 55
+
+Tue Mar 25 10:20:40 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 50 4C 4A 49 4A 4F 54 57 52 4D 4B 4A 4A 4D 52 56 54 4F 4B
+
+Tue Mar 25 10:20:40 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4B 51 56 56 50 4C 4A 49 49 4E 54 56 52 4D 4B 49 49 4C
+
+Tue Mar 25 10:20:40 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 52 56 54 4F 4A 49 49 4A 50 55 55 4F 4C 4A 49 49 4E 54 56 52
+
+Tue Mar 25 10:20:40 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4D 4A 4A 4A 4D 52 56 54 4E 4B 4A 49 4B 50 56 56 51 4C 4B 4A
+
+Tue Mar 25 10:20:40 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4F 54 57 53 4D 4B 4A 4A 4C 52 56 55 4E 4B 4A 49 4B 50 56
+
+Tue Mar 25 10:20:40 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 57 51 4C 4A 49 4A 4D 53 57 52 4D 4B 4A 49 4C 52 56 55 4E 4B
+
+Tue Mar 25 10:20:40 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4B 50 55 56 51 4B 4A 49 4A 4E 54 56 53 4D 4B 4A 49 4C
+
+Tue Mar 25 10:20:40 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 52 57 55 4F 4B 4A 49 4B 50 55 56 50 4D 4A 4A 4A 4E 54 57 53
+
+Tue Mar 25 10:20:40 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4E 4B 4A 4A 4C 52 56 55 4F 4B 4A 4A 4B 50 55 56 51 4C 4A 4A
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4E 54 56 53 4D 4A 49 49 4B 52 56 55 4E 4B 4A 49 4A 50 55
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 51 4C 4A 4A 4A 4E 54 57 53 4E 4A 4A 49 4B 52 56 55 4F 4B
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 49 4A 50 55 56 51 4C 4A 4A 4A 4D 54 56 53 4D 4A 49 49 4B
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 51 56 55 4F 4B 49 49 49 4F 54 55 50 4C 4A 4A 4A 4E 54 56 53
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4D 4B 4A 4A 4C 52 57 55 4F 4B 4A 49 4A 4F 55 56 50 4C 49 49
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 4D 53 56 53 4E 4B 4A 4A 4C 51 56 55 4F 4B 4A 4A 4B 4F 55
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 51 4D 4A 4A 49 4D 54 56 53 4E 4B 49 49 4B 51 56 55 4E 4B
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4A 4F 55 56 51 4C 49 49 4A 4D 54 57 54 4E 4A 4A 4A 4B
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 51 56 55 4F 4B 4A 4A 4A 4F 55 57 52 4D 4B 4A 4A 4D 54 57 54
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4F 4B 4B 4A 4C 51 56 55 4F 4B 4A 4A 4B 50 55 56 52 4D 4A 49
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4D 54 57 54 4E 4B 4B 4A 4C 51 56 56 50 4D 4B 4B 4B 50 55
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 57 51 4D 4B 4A 4A 4D 53 56 54 4E 4B 4A 4A 4B 51 56 55 50 4C
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4B 4B 50 55 57 53 4E 4B 4A 4A 4E 54 57 55 4F 4C 4A 4B 4C
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 52 57 56 51 4C 4B 4A 4B 50 56 57 52 4D 4B 4A 4A 4D 53 57 54
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4E 4B 4A 4A 4C 51 56 56 50 4C 4A 4A 4A 50 55 57 53 4E 4C 4B
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4D 53 57 55 4F 4C 4B 4A 4B 51 56 55 50 4D 4B 4A 4A 4F 54
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 57 52 4D 4A 4A 49 4C 53 56 54 4E 4C 4A 4A 4B 51 56 55 50 4C
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4A 4F 54 56 52 4D 4B 4A 4A 4C 53 57 54 4E 4B 4A 4A 4B
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 51 56 55 4F 4C 4A 4A 4A 4F 54 57 52 4D 4B 49 4A 4D 53 57 55
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4E 4B 4A 4A 4B 51 56 55 51 4C 4A 4A 4A 4E 54 57 53 4E 4B 4A
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4D 53 57 54 4F 4B 4A 4A 4B 51 57 56 51 4C 4A 4A 4A 4E 54
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 57 52 4D 4B 4A 49 4C 53 57 55 4F 4C 4A 4A 4C 51 56 56 50 4C
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 4A 4F 54 57 52 4C 4A 49 4A 4C 53 57 55 4F 4C 49 4A 4B
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 51 57 56 50 4C 4A 4A 4A 4F 55 57 53 4D 4B 4A 4B 4D 53 57 55
+
+Tue Mar 25 10:20:41 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4E 4B 4A 49 4A 50 55 56 51 4C 4A 4A 4A 4F 54 56 52 4D 4A 49
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 4C 52 56 54 4E 4B 4A 4A 4A 50 55 56 50 4C 4A 4A 4A 4E 54
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 53 4E 4B 4A 4A 4C 53 57 55 4F 4C 4A 4A 4B 51 56 57 51 4D
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 4A 4E 55 57 53 4E 4C 4B 4B 4D 54 57 55 4F 4C 4A 4A 4B
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 51 56 56 51 4C 4A 4A 4A 4E 55 57 53 4D 4B 4A 4A 4C 53 57 56
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4F 4B 4A 4A 4B 50 56 56 51 4D 4B 4A 4B 4F 55 58 54 4E 4B 4B
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4D 53 57 55 50 4C 4B 4B 4C 51 57 57 51 4D 4B 4A 4A 4E 55
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 57 53 4E 4B 4B 4B 4C 53 57 56 50 4C 4A 4A 4B 51 56 57 51 4D
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4B 4A 4F 55 57 54 4E 4C 4A 4B 4E 53 58 56 50 4D 4B 4B 4B
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 51 56 56 51 4D 4B 4A 4B 4E 55 57 54 4E 4B 4B 4A 4C 52 57 56
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 50 4C 4B 4A 4B 51 56 57 51 4C 4B 4A 4A 4D 53 57 53 4E 4B 4A
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4C 52 57 56 4F 4C 4A 4A 4A 50 56 57 52 4D 4B 4B 4B 4E 54
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 54 4E 4C 4A 4A 4C 52 56 56 50 4C 4B 4A 4B 50 56 57 52 4E
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 4B 4B 4E 54 58 54 4E 4B 49 49 4C 52 56 55 4F 4C 4A 4A 4B
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 50 55 57 52 4D 4A 4A 4A 4D 54 57 54 4E 4B 4A 4A 4C 52 56 55
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 50 4C 4A 4A 4A 4F 55 56 51 4C 4A 4A 49 4D 53 57 54 4E 4B 4A
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4B 51 56 55 4F 4C 4A 4A 4A 4F 54 57 51 4D 4A 4A 4A 4D 54
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 53 4E 4B 49 4A 4C 52 57 56 50 4C 4B 4A 4B 50 55 57 52 4D
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 4A 4D 54 57 54 4E 4B 4A 4A 4B 51 56 56 50 4C 4A 4A 4B
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4F 55 56 52 4C 4A 4A 4A 4D 53 57 53 4E 4B 4A 4A 4C 52 57 56
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 50 4C 4A 4A 4A 4F 54 56 51 4D 4A 49 49 4C 53 56 54 4F 4C 4A
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4C 51 57 56 50 4C 4A 4A 4A 4F 55 56 52 4D 4A 4A 4A 4E 54
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 57 55 4E 4B 4A 4A 4B 51 56 55 50 4C 4A 4A 49 4F 55 57 52 4C
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 49 4A 4D 53 56 54 4E 4B 49 49 4B 51 56 56 50 4C 4B 4B 4B
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4F 55 57 53 4D 4B 4A 4A 4D 53 57 54 4E 4B 4A 49 4A 51 56 56
+
+Tue Mar 25 10:20:42 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 51 4B 4A 4A 4A 4F 55 56 52 4D 4A 49 4A 4D 53 56 55 4F 4C 4A
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4B 51 56 57 51 4D 4B 4A 4A 4F 55 58 53 4E 4B 4A 4A 4D 53
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 58 55 4E 4C 4A 4A 4B 51 56 57 51 4D 4B 4B 4B 4F 55 57 53 4E
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 4A 4D 53 57 55 4F 4B 4A 4A 4B 51 56 56 50 4C 4A 4A 4A
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4E 54 56 52 4D 4A 4A 49 4C 52 56 54 4E 4B 4A 49 4A 50 55 55
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 50 4B 4A 4A 4A 4D 54 56 53 4D 4B 4A 4A 4C 53 56 55 4F 4B 4A
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 50 55 55 50 4C 49 49 49 4E 54 56 53 4D 4A 49 49 4C 52
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 55 4F 4B 4A 49 4B 50 55 55 50 4C 4A 49 49 4D 53 56 52 4D
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 49 4A 4B 52 56 55 4E 4B 4A 4A 4B 50 55 56 51 4C 4A 4A 4A
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4D 54 57 54 4D 4B 4A 49 4C 52 56 54 4F 4B 4A 49 4A 50 55 56
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 51 4D 4B 4A 4A 4E 54 57 53 4D 4A 4A 4A 4C 52 56 55 4F 4B 4A
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 4B 50 56 56 51 4D 4A 49 4A 4E 54 56 53 4E 4B 4A 4A 4C 53
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 57 56 50 4C 4B 4A 4A 50 55 55 51 4C 4A 4A 49 4D 54 57 54 4E
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4B 4A 4C 53 57 56 50 4C 4B 4A 4B 51 56 57 52 4C 4B 4A 4A
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4E 54 57 54 4F 4B 4B 4B 4C 53 57 55 4F 4B 4A 4A 4A 4F 55 56
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 52 4D 4A 4A 4A 4E 53 57 54 4E 4B 4A 4A 4C 51 56 56 50 4C 4A
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4F 55 57 52 4D 4B 4A 4A 4D 54 57 54 4E 4B 4B 4B 4C 52
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 57 56 50 4C 4A 4A 4A 4F 55 57 52 4D 4B 4A 4A 4D 54 57 54 4E
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 4A 4B 51 56 56 50 4B 4A 4A 4A 4F 55 57 52 4D 4B 4A 4A
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4D 53 57 54 4E 4B 4A 49 4A 50 55 55 4F 4B 49 4A 4A 4F 55 56
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 52 4D 4B 49 4A 4C 53 56 54 4E 4B 4A 49 4A 51 56 55 4F 4C 4A
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4F 55 56 52 4D 4B 4A 4A 4D 53 57 55 4F 4C 4A 4A 4C 52
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 56 51 4C 4B 4A 4A 4F 54 57 52 4E 4B 4A 4A 4C 53 57 55 4E
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 4A 4B 51 56 56 50 4C 4A 4A 4A 4F 54 56 52 4D 4B 4A 4A
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4D 52 56 54 4E 4A 49 49 4A 50 56 55 50 4C 4A 4A 4A 4F 54 56
+
+Tue Mar 25 10:20:43 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 52 4D 4B 4A 4A 4D 53 57 55 4F 4B 4B 4B 4C 51 56 56 51 4C 4A
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4E 54 56 53 4D 4A 49 4A 4C 52 57 55 4F 4B 4A 49 4A 50
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 56 51 4C 4A 49 49 4E 54 56 53 4D 4A 49 4A 4C 51 56 54 4E
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 4A 4A 50 56 56 51 4D 4A 4A 4A 4E 54 57 53 4D 4A 4A 49
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 52 56 54 4E 4B 4A 4A 4B 50 56 56 51 4C 4A 49 4A 4E 54 56
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 53 4E 4A 4A 4A 4C 52 56 55 4F 4C 4A 49 4B 50 56 56 51 4C 4A
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 49 4E 54 57 53 4D 4A 49 49 4B 51 56 55 4E 4C 4A 4A 4A 50
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 57 52 4D 4A 4A 49 4D 54 57 53 4D 4A 49 49 4B 52 56 55 4F
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 49 4A 4F 55 55 51 4D 4B 4A 4A 4D 54 57 54 4E 4B 4A 4A
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 52 57 56 50 4C 4B 4A 4B 50 55 57 52 4C 4B 4A 4B 4E 54 57
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 54 4E 4B 4A 4A 4C 51 56 55 4F 4C 4A 49 4A 50 55 56 52 4D 4A
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4D 54 57 54 4E 4B 4A 4A 4B 52 56 55 4F 4B 4A 49 4A 4F
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 56 51 4C 4A 49 49 4D 53 57 53 4E 4B 4A 4A 4B 51 55 55 4F
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 49 49 4A 4F 55 56 51 4C 4A 4A 4A 4D 54 57 54 4F 4B 4A 4A
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 51 56 55 4F 4C 4A 4A 4A 4F 55 56 52 4D 4A 4A 4A 4D 53 57
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 54 4E 4C 49 4A 4B 52 56 55 50 4D 4A 4A 4A 4F 55 56 52 4D 4B
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4D 53 57 54 4F 4B 4A 4A 4B 51 56 56 50 4C 4A 49 4A 4F
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 57 53 4D 4B 4A 4A 4C 53 56 54 4D 4B 49 49 4B 50 55 55 4F
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 49 49 4E 54 57 52 4D 4B 49 49 4D 53 57 54 4E 4C 4A 4A
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 51 57 57 51 4D 4B 4A 4A 4F 56 58 54 4E 4B 4A 4A 4D 53 56
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 50 4C 4B 4A 4B 51 55 55 50 4C 4B 4A 4B 4F 55 57 53 4D 4B
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4D 53 57 55 4F 4C 4A 4A 4B 50 56 56 51 4D 4B 4A 4A 4F
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 57 53 4D 4B 4A 4A 4C 52 56 55 4E 4A 4A 4A 4B 50 56 57 50
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4D 4A 49 4A 4E 53 57 53 4E 4B 4A 4A 4C 53 57 56 4F 4C 4B 4A
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 51 56 56 51 4D 4B 4A 4A 4E 54 57 54 4E 4B 4A 4A 4C 52 57
+
+Tue Mar 25 10:20:44 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 50 4C 4B 4A 4B 50 56 56 51 4D 4B 4B 4A 4E 54 57 54 4D 4B
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4C 52 56 55 4F 4C 4A 4A 4B 50 56 57 51 4C 4A 49 49 4D
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 53 56 53 4E 4B 49 49 4B 51 55 54 4F 4B 4A 4A 4A 4F 55 56 50
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 4A 49 4A 4D 53 56 53 4D 4A 49 49 4C 52 56 54 4F 4C 4A 4A
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4F 55 56 51 4C 4A 4A 49 4E 54 56 53 4E 4B 4A 49 4B 52 56
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 4F 4C 4A 49 4A 4F 55 56 51 4D 4B 4A 4A 4E 54 57 54 4E 4C
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4C 52 56 55 50 4C 4A 49 4A 4F 55 56 52 4D 4B 4B 4B 4D
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 54 57 54 4D 4B 4A 4A 4B 51 56 55 4F 4C 4B 4A 4B 4F 55 56 52
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4D 4B 4A 4A 4D 53 56 53 4E 4B 4A 49 4A 51 55 55 50 4B 4A 4A
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4E 54 56 52 4D 4B 49 4A 4D 53 56 54 4E 4B 4A 4A 4B 51 56
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 50 4C 4A 4A 4A 4F 54 57 52 4D 4B 4A 4A 4D 53 57 55 4F 4B
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4B 52 57 56 51 4D 4A 4A 4A 4F 55 56 53 4D 4B 4A 4A 4D
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 53 56 54 4E 4B 4A 49 4B 51 56 56 50 4C 4A 4A 4A 4F 54 56 52
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4D 4A 49 49 4C 52 56 54 4E 4A 49 49 4A 50 56 55 50 4B 49 49
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 4D 53 56 51 4C 4A 49 48 4C 52 56 54 4E 4A 49 49 4A 50 55
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 50 4C 4A 49 49 4D 53 56 52 4C 4A 49 49 4C 52 56 54 4E 4B
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 4A 4B 50 55 55 4F 4B 4A 49 49 4D 54 56 52 4D 4A 49 49 4B
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 51 55 54 4E 4A 49 4A 4A 4F 55 55 50 4B 49 49 49 4D 53 56 52
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4D 4B 4A 4A 4C 52 56 54 4E 4B 49 49 4A 50 55 56 50 4C 4A 49
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 4E 54 56 53 4D 4B 4B 4A 4C 52 57 55 4F 4B 4A 49 4A 4F 54
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 50 4C 4A 4A 49 4D 53 56 52 4C 4A 49 49 4B 51 56 54 4F 4B
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 49 4A 4F 55 56 51 4C 4A 49 49 4D 53 56 53 4D 4B 49 49 4B
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 52 56 55 4F 4B 49 49 4A 4F 55 56 50 4C 4A 49 49 4D 53 56 53
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4D 4B 4A 4A 4B 51 57 56 4F 4B 4A 49 4A 50 56 57 52 4E 4B 4A
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4D 53 57 54 4E 4B 49 4A 4C 52 56 56 50 4C 4B 4B 4B 50 55
+
+Tue Mar 25 10:20:45 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 58 52 4D 4B 4A 4A 4E 54 57 55 4F 4B 4B 4B 4C 53 57 56 50 4D
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4A 50 55 57 52 4D 4B 49 4A 4D 53 57 54 4E 4B 4B 4A 4C
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 52 56 56 50 4C 4A 4A 4A 4F 55 56 52 4D 4B 4A 4A 4E 53 57 55
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4E 4C 4A 4A 4C 51 56 56 50 4C 4A 4A 4A 4F 54 57 53 4E 4B 4A
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4D 53 57 54 4E 4B 4A 49 4B 51 55 56 50 4C 4A 49 4A 4E 54
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 51 4C 4A 49 4A 4C 53 56 54 4E 4B 4A 4A 4C 50 55 55 50 4B
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 49 49 4E 54 56 52 4D 4A 4A 4A 4D 53 57 54 4E 4B 49 49 4A
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 50 55 55 50 4B 4A 49 4A 4E 54 56 52 4D 4A 49 49 4C 52 57 54
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4E 4B 49 49 4B 50 55 56 50 4C 4A 4A 4A 4E 54 56 52 4D 4B 4A
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4D 53 57 55 4E 4B 4A 4A 4A 50 55 56 50 4C 4A 49 4A 4E 54
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 53 4D 4B 4A 4A 4C 52 57 55 4F 4C 4A 4A 4B 50 55 56 51 4D
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4A 4E 55 57 53 4E 4A 4A 4A 4C 52 56 55 4F 4C 4A 4A 4A
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 50 55 56 51 4C 4B 4A 4A 4E 54 56 52 4E 4B 4A 4A 4C 52 57 55
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4F 4B 4A 49 4A 50 54 55 50 4B 49 49 49 4D 53 56 53 4D 4A 49
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 4B 51 56 54 4F 4B 49 49 4A 4F 55 56 51 4D 4A 49 49 4E 53
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 53 4D 4B 4A 4A 4C 52 56 55 4F 4B 4A 4A 4A 4F 55 56 51 4C
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4A 4D 53 56 53 4E 4B 4A 4A 4C 51 56 55 4F 4C 4B 4A 4A
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4F 55 56 51 4D 4A 4A 4A 4D 53 57 54 4E 4B 4B 4A 4C 52 57 55
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 50 4C 4A 4A 4A 4F 55 56 51 4D 4B 49 4A 4D 53 57 54 4E 4B 4A
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4C 52 56 55 50 4C 4A 4A 4A 4F 55 56 52 4C 4B 4A 4A 4D 53
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 54 4E 4B 49 49 4A 51 55 55 4F 4C 49 49 49 4F 54 56 52 4C
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4A 4D 53 57 54 4E 4C 4A 4A 4C 52 57 56 50 4C 4A 4A 4B
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 50 56 57 52 4D 4B 4A 4A 4E 53 57 54 4E 4B 4A 4A 4B 51 56 57
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 50 4D 4A 4A 4A 4F 54 56 52 4D 4A 4A 49 4D 53 57 54 4E 4C 4A
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 4B 51 56 55 50 4C 4A 4A 4A 4F 55 56 52 4D 4A 49 49 4C 52
+
+Tue Mar 25 10:20:46 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 53 4D 4B 49 49 4A 50 55 55 4F 4B 4A 49 4A 4E 54 56 52 4C
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 49 49 4C 52 56 54 4E 4A 49 49 4B 50 55 55 50 4C 4A 4A 4B
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4F 55 57 53 4D 4B 49 49 4C 52 55 53 4E 4B 49 4A 4B 51 56 56
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 50 4B 4A 49 49 4D 54 56 51 4C 4A 48 49 4C 52 56 54 4E 4B 4A
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 4A 50 55 55 50 4C 49 48 49 4D 53 56 52 4C 4A 49 49 4C 52
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 54 4E 4A 49 49 4A 4F 55 55 50 4B 4A 49 49 4D 53 56 52 4D
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4A 4C 52 56 54 4F 4B 4A 4A 4A 4F 55 56 50 4C 49 49 49
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4E 54 57 53 4D 4B 4A 4A 4C 52 57 56 4F 4C 4A 4A 4A 50 55 56
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 51 4C 4A 49 49 4E 54 56 53 4D 4B 4A 4A 4C 52 57 54 4F 4C 4A
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 50 55 56 50 4C 4A 49 49 4D 53 56 52 4D 4B 4A 49 4B 51
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 54 4F 4B 4A 49 4A 4F 55 56 52 4C 4B 4A 4A 4D 54 57 54 4E
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 49 4A 4C 52 57 55 4F 4B 49 49 4A 4F 55 56 51 4D 4B 4A 49
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4D 53 56 53 4D 4B 4A 4A 4B 51 56 55 4E 4B 4A 49 4A 4F 55 56
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 51 4C 4A 4A 49 4D 54 56 54 4E 4A 4A 4A 4C 52 56 55 4F 4C 4A
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4B 50 55 56 52 4D 4B 49 49 4D 53 56 53 4E 4B 4A 4A 4B 51
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 55 50 4C 4A 4A 4A 4F 55 56 52 4C 4B 4A 49 4C 53 56 53 4E
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 4A 4C 51 56 55 50 4B 4A 4A 4B 4F 54 56 52 4E 4A 4A 4A
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4E 53 57 54 4F 4B 4A 4B 4C 52 57 56 51 4C 4B 4A 4B 50 56 58
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 53 4E 4B 4A 4B 4E 54 57 55 50 4C 4B 4B 4C 52 56 56 51 4D 4B
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4B 50 56 57 52 4D 4B 4B 4B 4E 54 57 55 4F 4B 4A 4A 4B 51
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 56 50 4C 4A 4A 4A 4F 55 57 52 4E 4B 4A 4A 4D 54 57 55 4F
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 4A 4A 4B 51 56 56 51 4C 4B 4A 4A 4F 55 57 53 4E 4B 4A 4A
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4E 54 57 55 4E 4C 4A 4A 4B 51 56 56 51 4C 4B 4B 4B 4F 55 56
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 52 4D 4A 4A 49 4C 53 57 55 4F 4C 4A 4A 4C 51 56 56 51 4D 4B
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4B 4F 55 57 53 4F 4C 4C 4B 4E 53 58 55 4F 4C 4A 4A 4B 51
+
+Tue Mar 25 10:20:47 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 57 57 51 4D 4B 4B 4B 4E 55 57 53 4E 4B 4A 4A 4C 53 57 55 4F
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 4A 4B 50 55 56 50 4C 4A 4A 4B 4E 54 56 52 4D 4A 49 4A
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 53 56 55 4F 4C 4A 4A 4B 50 56 56 50 4D 4A 4A 4A 4E 54 57
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 53 4D 4B 4A 4A 4C 52 56 55 4F 4C 4A 4B 4A 50 55 56 51 4D 4A
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4E 54 57 53 4D 4B 4A 49 4C 52 56 55 4F 4C 4A 49 49 50
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 56 51 4C 4A 4A 4A 4D 54 57 53 4E 4B 4A 4A 4C 52 57 55 4F
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 49 4A 50 55 56 51 4D 4A 4A 4B 4E 54 57 53 4E 4B 4A 4A
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 52 57 56 50 4C 4A 49 4A 4F 54 55 50 4C 4A 4A 49 4D 53 56
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 53 4D 4B 4A 4A 4C 52 57 56 50 4D 4B 4B 4B 50 56 56 52 4D 4A
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 4A 4D 53 56 53 4D 4B 4A 4A 4B 51 56 56 50 4C 4B 4A 4B 50
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 56 52 4D 4B 4A 4A 4E 54 57 54 4E 4B 4A 4A 4C 51 56 55 50
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 4A 4A 4A 4F 55 56 52 4C 4A 49 4A 4D 53 57 55 4E 4B 4A 4A
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 52 56 56 50 4C 4A 4A 4A 4F 55 57 52 4D 4B 4A 4B 4D 53 57
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 4E 4B 4A 49 4B 51 56 56 50 4C 4A 4A 4A 4E 54 55 51 4C 4A
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 49 4C 52 56 54 4D 4A 49 49 4B 51 56 56 50 4B 4A 49 4A 4F
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 56 52 4C 4A 4A 4A 4C 52 56 54 4D 4A 49 48 4A 50 55 55 4F
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 49 49 4E 53 56 52 4C 4A 49 49 4C 52 56 54 4E 4A 49 49
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 50 55 55 4F 4C 49 49 49 4E 54 56 52 4C 4A 4A 4A 4C 53 56
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 4E 4B 4A 49 4A 50 56 55 50 4B 4A 49 4A 4E 54 57 53 4D 4A
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 4A 4C 53 56 55 4F 4C 4A 4A 4B 50 55 56 50 4C 4A 4A 4A 4E
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 54 56 52 4C 4A 49 49 4C 52 56 54 4E 4B 4A 4A 4A 4F 55 56 50
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 4B 4A 4A 4E 54 57 53 4D 4B 4A 4A 4D 52 57 54 4E 4B 4A 49
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 50 56 56 51 4D 4C 4B 4B 4F 55 57 54 4E 4B 4A 4A 4C 52 56
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 4F 4C 4A 4A 4B 50 56 57 51 4C 4A 49 4A 4E 54 57 53 4D 4B
+
+Tue Mar 25 10:20:48 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4D 52 57 55 50 4C 4B 4A 4B 51 56 57 51 4C 4A 49 4A 4D
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 53 56 53 4D 4A 49 49 4B 51 55 54 4E 4B 49 49 4A 4F 56 56 51
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 4A 49 49 4E 54 57 54 4E 4B 4A 4A 4B 52 57 55 50 4C 4B 4A
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 50 55 57 51 4D 4B 4A 4A 4E 54 57 53 4D 4B 4A 4A 4D 52 57
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 50 4C 4B 4A 4A 4F 56 56 51 4C 4A 49 49 4D 53 56 53 4D 4B
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 49 4C 51 56 55 50 4C 4A 4A 4A 4F 55 56 51 4C 4A 4A 4A 4D
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 53 56 53 4E 4A 49 49 4B 50 55 54 4E 4B 49 49 49 4E 53 55 50
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 49 49 49 4D 53 56 53 4D 4B 4A 49 4B 51 55 55 4F 4B 4A 4A
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4E 55 57 52 4C 4A 4A 49 4C 53 56 53 4D 4A 49 49 4B 51 55
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 54 4F 4B 4A 49 4A 4F 54 56 51 4D 4A 49 4A 4D 53 56 54 4E 4B
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4B 51 56 55 4F 4C 4A 49 4A 4F 54 56 51 4C 4A 49 49 4C
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 52 56 54 4E 4C 4A 4A 4B 51 56 55 4F 4C 4A 49 49 4E 54 56 52
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 4B 49 49 4C 52 56 53 4E 4A 4A 49 4B 50 55 56 4F 4C 4A 49
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 4E 54 56 52 4C 4A 4A 4A 4D 53 56 55 4E 4B 4A 49 4A 50 55
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 50 4C 4A 4A 4A 4E 54 56 52 4C 4A 49 49 4C 52 56 54 4D 4A
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 49 4A 50 55 55 50 4C 4B 4A 4A 4E 55 56 52 4D 4A 4A 4A 4C
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 52 57 55 4E 4B 4A 4A 4B 51 56 56 50 4C 4A 49 4A 4D 54 56 52
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 4B 4A 4A 4C 52 56 54 4F 4B 4A 49 4B 50 55 55 50 4B 4A 49
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 4D 54 56 52 4C 4A 4A 4A 4C 52 56 54 4E 4B 49 49 4A 50 56
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 50 4C 4A 4A 4A 4E 53 56 52 4D 4B 49 4A 4C 52 56 55 4F 4B
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 49 4A 50 55 56 51 4C 4B 49 4A 4D 53 56 53 4D 4A 49 48 4B
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 51 56 55 4F 4B 4A 4A 4A 50 55 56 51 4C 4A 49 4A 4D 54 56 53
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4D 4A 49 49 4B 51 56 54 4F 4B 4A 49 4A 50 55 56 51 4C 4A 49
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 4D 54 56 53 4D 4B 49 4A 4C 52 56 55 4F 4C 4A 4A 4A 50 55
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 57 51 4D 4A 4A 4A 4D 54 57 54 4E 4B 4A 49 4C 52 57 55 4F 4C
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 4B 4F 56 57 52 4C 4A 49 49 4D 53 56 53 4E 4A 49 49 4B
+
+Tue Mar 25 10:20:49 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 51 56 55 4F 4B 49 49 4A 4F 55 56 52 4C 4B 4A 4A 4E 53 57 54
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4E 4B 4B 4A 4C 51 56 55 4F 4B 4A 49 4A 4F 55 56 52 4D 4B 4A
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 4D 54 57 54 4D 4B 49 4A 4B 51 56 55 4F 4B 4A 49 49 4E 55
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 51 4C 4A 4A 49 4C 52 56 53 4D 4B 49 4A 4B 50 56 55 4F 4B
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 49 4A 4F 54 56 51 4C 4B 49 4A 4D 52 56 54 4E 4B 4A 4A 4B
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 51 55 55 4F 4C 4A 4A 4B 4F 55 57 52 4D 4A 49 4A 4D 53 56 54
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4E 4B 49 49 4A 50 55 55 4F 4B 4A 49 4A 4E 55 56 51 4C 4A 49
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 4C 52 56 54 4E 4B 49 49 4B 50 55 56 4F 4C 4A 4A 49 4E 54
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 52 4C 4A 4A 4A 4C 52 56 54 4E 4B 4A 4A 4B 51 56 56 50 4C
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 49 4A 4E 54 56 52 4C 4A 49 4A 4D 52 56 55 4F 4B 4A 49 4B
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 50 56 55 50 4C 4A 4A 4A 4E 54 57 52 4D 4B 49 49 4D 53 57 54
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4E 4B 4A 49 4A 50 55 56 50 4B 4A 49 49 4E 54 56 53 4D 4A 49
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 4D 52 57 55 4E 4B 4A 4A 4A 50 56 56 51 4D 4B 4A 4A 4F 54
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 57 53 4E 4C 4B 4A 4D 53 57 55 4F 4C 4B 4B 4C 51 56 57 51 4D
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 4A 4E 54 57 53 4E 4B 4A 4B 4D 52 57 55 4F 4C 4A 4A 4B
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 50 56 56 51 4D 4B 4A 4A 4E 54 57 53 4E 4A 49 49 4C 52 56 55
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4E 4B 4A 4A 4A 50 55 56 51 4C 4A 4A 4A 4E 54 57 54 4E 4B 4A
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4D 53 57 56 4F 4D 4B 4A 4C 50 56 57 52 4D 4B 4B 4A 4E 54
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 57 54 4E 4B 4A 4A 4C 52 56 55 50 4C 4B 4A 4B 50 56 57 52 4D
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4A 4E 54 57 54 4E 4B 4A 4A 4C 52 56 55 50 4C 4A 4A 4A
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 50 55 56 51 4C 4A 49 49 4D 53 56 53 4E 4B 4A 49 4C 52 56 56
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4F 4C 4A 4A 4B 50 55 57 51 4D 4B 4A 4A 4D 53 56 53 4D 4A 49
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4B 51 56 55 4F 4B 49 49 4A 4F 55 55 51 4C 4A 49 49 4C 52
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 53 4D 4A 4A 49 4B 50 55 55 4F 4B 49 49 49 4E 53 55 51 4C
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 48 48 4C 53 56 54 4E 4B 4A 4A 4B 51 56 56 4F 4C 4A 4A 4A
+
+Tue Mar 25 10:20:50 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4F 55 56 51 4D 4B 4A 49 4D 53 56 54 4E 4B 4A 4A 4B 51 56 55
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4F 4B 4A 4A 49 4F 55 56 52 4D 4B 4A 49 4C 52 56 54 4E 4B 49
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 4B 51 56 56 50 4C 4B 4A 4A 4E 54 56 52 4D 4B 4A 49 4C 53
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 55 4E 4B 4A 4A 4B 51 56 56 50 4C 4A 4A 4A 4F 54 56 52 4D
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 4A 4D 53 57 55 4E 4B 4A 4A 4B 50 56 56 50 4C 4B 4A 4A
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4F 55 57 53 4E 4B 4B 4B 4D 53 56 55 4F 4C 4A 4A 4B 51 56 56
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 51 4C 4A 4A 4B 4F 55 57 53 4E 4B 4A 4A 4D 52 57 55 4F 4D 4B
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4C 51 56 56 50 4C 4B 4A 4B 4F 56 57 53 4D 4B 4A 4A 4D 53
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 57 56 50 4C 4B 4A 4C 51 57 57 51 4D 4C 4B 4B 4F 55 57 53 4F
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4B 4B 4D 53 57 56 4F 4D 4B 4A 4B 51 56 56 51 4D 4B 4A 4B
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4F 55 57 54 4E 4B 4B 4B 4D 54 57 56 50 4C 4B 4B 4C 51 56 57
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 52 4D 4B 4B 4B 4F 55 57 54 4E 4B 4A 4A 4C 52 57 55 4F 4C 4B
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4B 50 55 57 51 4D 4A 49 4A 4D 53 56 52 4D 4A 4A 4A 4B 52
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 55 4E 4B 4A 49 4A 50 55 56 51 4C 4A 4A 49 4E 54 57 53 4D
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 49 4A 4C 53 57 56 50 4C 4B 4A 4B 50 56 56 52 4D 4B 4A 4A
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4D 53 56 53 4E 4B 4A 4A 4C 52 56 55 4F 4C 4B 4A 4B 50 56 57
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 51 4D 4A 4A 49 4D 53 56 53 4E 4B 4A 4A 4C 52 56 55 4F 4C 4A
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4B 50 56 57 52 4C 4A 4A 4A 4D 53 56 54 4E 4B 4A 49 4B 51
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 55 4F 4C 4A 4A 4A 4F 55 56 51 4C 4A 49 49 4C 52 56 53 4D
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 4A 4C 52 56 55 4F 4C 4A 49 4A 4F 54 56 50 4C 4A 49 4A
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4D 53 56 53 4D 4B 49 49 4B 51 56 55 4F 4B 4A 49 4A 4F 55 56
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 51 4D 4A 4A 4A 4D 53 57 53 4E 4B 4A 49 4B 51 55 55 4F 4B 49
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 4A 4F 54 56 52 4D 4A 49 49 4D 53 56 54 4E 4B 49 49 4A 50
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 55 50 4B 4A 49 4A 4E 54 56 51 4B 4A 49 49 4C 52 56 54 4D
+
+Tue Mar 25 10:20:51 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 49 4B 50 56 55 4F 4B 49 49 4A 4F 54 56 52 4D 4A 4A 49
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 52 55 53 4D 4B 49 49 4A 50 55 55 50 4B 4A 49 49 4D 53 55
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 51 4B 49 48 48 4B 51 55 53 4D 49 49 48 4A 50 55 55 4F 4B 49
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 49 4E 54 55 52 4D 4A 49 49 4C 52 56 54 4E 4B 4A 4A 4A 50
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 56 4F 4C 49 48 49 4D 54 56 51 4C 4A 49 49 4B 52 56 54 4E
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 49 4A 4F 54 55 4F 4C 4A 4A 4A 4E 55 57 54 4D 4A 4A 4A
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 53 56 54 4D 4B 4A 49 4A 50 55 55 50 4C 4A 49 4A 4E 55 56
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 53 4D 4B 4A 4A 4C 53 57 55 4F 4C 4A 4A 4A 50 55 55 50 4B 49
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 49 4E 54 56 52 4D 4A 4A 49 4B 52 56 55 4E 4B 4A 49 4A 4F
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 56 51 4C 4A 4A 4A 4E 53 56 53 4D 4B 4A 4A 4C 53 56 55 4E
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 49 4A 50 55 56 51 4C 4A 4A 49 4E 53 56 52 4D 4A 4A 4A
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 52 56 55 4F 4C 4A 4A 4A 4F 55 56 51 4C 4A 49 49 4D 53 56
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 54 4E 4B 4B 4B 4C 52 56 55 4F 4B 4A 49 4A 4F 55 56 52 4D 4B
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4B 4E 55 58 55 4F 4C 4B 4B 4D 53 57 55 50 4C 4A 4A 4B 4F
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 56 51 4C 4B 4A 4A 4D 54 57 54 4F 4C 4A 4B 4C 51 56 55 4F
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 4A 4A 50 55 57 52 4D 4B 4A 4B 4E 54 56 54 4D 4A 4A 49
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 51 56 55 50 4C 4A 4A 4A 4F 55 56 52 4D 4B 4A 4A 4D 53 57
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 54 4E 4B 4A 4A 4B 51 56 56 50 4C 4A 4A 4A 4F 55 57 51 4C 4A
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 49 4D 52 56 54 4E 4B 4A 49 4C 51 56 56 4F 4B 4A 4A 4A 4F
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 54 56 52 4D 4A 49 4A 4D 54 57 55 4E 4B 4A 4A 4B 51 56 56 50
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 4B 4A 4B 4F 55 56 52 4C 4A 4A 49 4C 52 56 54 4D 4A 4A 49
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 51 56 55 50 4C 4A 4A 4A 4F 55 56 52 4D 4B 4A 4A 4D 53 57
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 4E 4C 4A 4A 4B 51 55 55 50 4C 4A 4A 49 4E 54 56 52 4D 4A
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 49 49 4C 53 57 55 4F 4C 4B 4A 4B 50 56 56 50 4C 4A 49 49 4F
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 54 56 52 4D 4A 49 49 4C 51 56 54 4E 4B 49 4A 4A 51 55 56 4F
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 4A 49 4A 4E 54 56 52 4D 4A 49 49 4C 51 56 54 4E 4A 4A 49
+
+Tue Mar 25 10:20:52 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 50 56 56 51 4C 4A 4A 4A 4E 54 57 53 4E 4B 4A 4A 4C 51 56
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 4E 4A 49 49 4A 50 55 56 51 4C 4A 4A 4A 4E 54 56 53 4E 4B
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4D 52 57 55 4F 4C 4B 4A 4B 50 55 56 51 4D 4A 49 4A 4D
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 54 56 53 4D 4A 4A 4A 4C 52 56 55 4E 4B 49 49 4A 4F 55 56 51
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4D 4A 4A 4A 4D 54 56 53 4D 4B 49 4A 4B 52 56 55 4F 4B 49 49
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4F 55 56 51 4C 4B 4A 4A 4E 54 57 54 4E 4B 4A 4A 4C 52 56
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 55 4F 4C 4B 4A 4B 50 56 56 52 4C 4B 4A 4A 4E 54 57 54 4F 4C
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 4C 52 57 56 4F 4B 4A 49 4A 4F 55 56 51 4D 4A 49 4A 4D
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 53 56 53 4D 4A 49 49 4B 51 55 55 4E 4B 4A 49 4A 4F 55 56 51
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 4A 4A 49 4D 53 56 53 4E 4A 49 4A 4B 51 56 55 4F 4C 4A 4A
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 50 54 55 51 4C 4A 49 49 4D 53 57 54 4E 4B 4A 4A 4B 51 56
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 4F 4C 4A 4A 4A 4F 55 57 52 4D 4B 4A 4A 4D 54 57 55 4F 4C
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4B 4C 51 57 56 50 4C 4B 4A 4A 4F 54 56 52 4C 4B 4A 4A 4D
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 53 56 54 4E 4B 4A 4A 4B 51 56 56 50 4C 4A 4A 4A 4F 55 56 52
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4D 4A 4A 49 4C 52 57 54 4E 4B 4A 4A 4B 51 56 56 50 4C 4B 4A
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4F 55 57 52 4D 4B 4A 4A 4D 53 57 55 4F 4B 4A 4A 4B 51 56
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 50 4C 4A 4A 4A 4F 54 57 52 4D 4A 4A 4A 4D 53 57 54 4E 4B
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4B 51 56 56 50 4C 4A 4A 4A 4F 55 57 53 4D 4B 4A 4A 4D
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 53 57 55 4F 4B 4A 4A 4C 51 56 57 51 4D 4B 4A 4A 4F 55 57 53
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4E 4B 4A 4A 4D 53 57 55 4F 4C 4A 4A 4B 50 56 56 51 4D 4A 4A
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4E 54 56 53 4D 4B 4A 4A 4C 53 57 55 4F 4C 4A 4A 4B 50 57
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 51 4D 4A 4A 4A 4E 54 57 53 4D 4B 4A 4A 4D 52 57 55 4F 4C
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4B 50 56 56 50 4C 4B 4A 4A 4E 54 57 53 4D 4B 4A 4A 4D
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Disabling notifications/indications on 0000aa01-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Notifications or indications DISABLED on 0000aa01-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:20:53 GMT+08:00 2025: Wrote to descriptor 00002902-0000-1000-8000-00805f9b34fb | operation type: DisableNotifications(device=y4.f@3425f7, characteristicUuid=0000aa01-0000-1000-8000-00805f9b34fb, serviceUuid=0000ff01-0000-1000-8000-00805f9b34fb)
+
+Tue Mar 25 10:21:00 GMT+08:00 2025: Enabling notifications/indications on 0000aa01-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:21:00 GMT+08:00 2025: Notifications or indications ENABLED on 0000aa01-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:21:00 GMT+08:00 2025: Wrote to descriptor 00002902-0000-1000-8000-00805f9b34fb | operation type: EnableNotifications(device=y4.f@3425f7, characteristicUuid=0000aa01-0000-1000-8000-00805f9b34fb, serviceUuid=0000ff01-0000-1000-8000-00805f9b34fb)
+
+Tue Mar 25 10:21:00 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 50 56 57 51 4C 4A 4A 4A 4E 54 57 54 4E 4B 4B 4A 4C 52
+
+Tue Mar 25 10:21:00 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 55 4F 4B 49 49 4A 4F 55 56 51 4C 4B 4A 4A 4E 54 57 54 4E
+
+Tue Mar 25 10:21:00 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4B 4A 4A 4B 51 56 56 4F 4C 4A 4A 4B 4F 55 56 52 4C 4B 49 49
+
+Tue Mar 25 10:21:00 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4D 53 56 53 4D 4B 4A 4A 4C 52 56 55 4F 4C 4A 4A 4B 4F 55 57
+
+Tue Mar 25 10:21:00 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 52 4D 4B 4A 4A 4E 53 57 54 4E 4B 4A 4A 4C 52 57 56 50 4C 4A
+
+Tue Mar 25 10:21:00 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 50 55 56 52 4D 4A 4B 4A 4D 53 57 54 4E 4B 4A 4A 4B 51
+
+Tue Mar 25 10:21:00 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 56 50 4C 4A 49 4A 4F 55 56 52 4D 4B 4A 4A 4E 54 57 55 4E
+
+Tue Mar 25 10:21:00 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 4B 4A 4C 52 57 56 50 4C 4B 4A 4B 50 55 57 52 4D 4B 4A 4A
+
+Tue Mar 25 10:21:01 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4D 54 57 55 4F 4C 4A 4A 4C 51 56 56 51 4D 4B 4A 4B 50 55 57
+
+Tue Mar 25 10:21:01 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 52 4E 4B 4B 4A 4D 54 57 55 4F 4C 4B 4A 4C 52 57 56 51 4C 4B
+
+Tue Mar 25 10:21:01 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4A 4F 55 56 52 4E 4C 4B 4B 4E 55 58 55 50 4D 4C 4C 4C 52
+
+Tue Mar 25 10:21:01 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 56 57 51 4D 4B 4B 4A 50 55 57 53 4E 4C 4B 4A 4E 54 58 55 4F
+
+Tue Mar 25 10:21:01 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4C 4B 4B 4C 52 57 57 51 4D 4C 4B 4B 50 56 58 53 4E 4B 4A 4A
+
+Tue Mar 25 10:21:01 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4D 54 57 55 4F 4C 4B 4A 4B 51 56 56 50 4C 4B 4A 4A 4F 56 58
+
+Tue Mar 25 10:21:01 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 54 4E 4C 4B 4B 4E 53 57 55 4F 4C 4B 4B 4C 52 57 57 52 4E 4B
+
+Tue Mar 25 10:21:01 GMT+08:00 2025: Characteristic 0000aa01-0000-1000-8000-00805f9b34fb changed | value: 4A 4B 4E 55 57 53 4E 4B 4A 4A 4D 52 57 54 4E 4B 4A 49 4A 50
+
+Tue Mar 25 10:21:01 GMT+08:00 2025: Disabling notifications/indications on 0000aa01-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:21:01 GMT+08:00 2025: Notifications or indications DISABLED on 0000aa01-0000-1000-8000-00805f9b34fb
+
+Tue Mar 25 10:21:01 GMT+08:00 2025: Wrote to descriptor 00002902-0000-1000-8000-00805f9b34fb | operation type: DisableNotifications(device=y4.f@3425f7, characteristicUuid=0000aa01-0000-1000-8000-00805f9b34fb, serviceUuid=0000ff01-0000-1000-8000-00805f9b34fb)
+
+Tue Mar 25 10:21:03 GMT+08:00 2025: App backgrounded
+
+Tue Mar 25 10:22:37 GMT+08:00 2025: App foregrounded
+
