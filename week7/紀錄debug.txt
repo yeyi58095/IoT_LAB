@@ -1,0 +1,8 @@
+基本上跟上禮拜的東西鰻類似的
+只不過多了 Canvas 要來畫波形
+畫的時候，遇到一個問題
+就是不知道為什麼 grid_endpoint 這個變數一直變成0
+即便我有initialize 成 Canvas1.Width 也一樣
+但是，如果我從其他不相干的方塊來看 (例如 when DisconnectButton.Click 的 do 裡面 set StatusLabed.text = grid_endpoint.value() 就是正常的)
+就會是正常的  就我也不知道為什麼
+因此 解決方法是  在 when BLE.BytesReceived 的do的第一行重新賦值。
